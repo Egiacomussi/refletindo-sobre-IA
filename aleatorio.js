@@ -1,3 +1,4 @@
+@@ -0,0 +1,8 @@
 const nomes = ["Fernanda", "Giuliana", "Maria Eduarda", "Marcelo", "Amanda", "Gustavo", "Gabriel"];
 
 export function aleatorio (lista){
